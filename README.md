@@ -1,4 +1,4 @@
-# Utils
+# software-toolkit
 
 This repository serves as a centralized toolkit for utilities that assist with repetitive tasks, quick fixes, and workflow improvements. These programs span various categories such as file management, automation, data processing, and more.
 
